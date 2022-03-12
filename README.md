@@ -1,6 +1,6 @@
 # E-commerce
 New E-Commerce
-FeatureS:
+Features:
 - Templete 
 - Responsive Design
 - Modern
